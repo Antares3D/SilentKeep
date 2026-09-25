@@ -27,3 +27,9 @@ Technical Highlights
 - Game Instance state management
 - Modular interaction systems
 - Animation montages and notifies
+
+
+License
+
+- The original source code and original content of this project are licensed under the MIT License.
+- This project also contains third-party assets and content, which remain subject to their respective licenses. Third-party assets are not relicensed under the MIT License.
